@@ -6,6 +6,7 @@ Description: A simple Python chatbot that analyzes user sentiment using NLTK's V
 Features:
 
 Detects positive, negative, and neutral sentiments in user input.
+
 Responds accordingly based on the sentiment.
 
 Exits when the user types "exit".
@@ -13,4 +14,5 @@ Exits when the user types "exit".
 Requirements:
 
 Python 3.x
+
 NLTK library
